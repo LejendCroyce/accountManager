@@ -4,17 +4,26 @@ OUTLINE:
 A. CREATE A RESPONSIVE USER INTERFACE
 B. CREATE A DATABASE THAT STORES MY CALCULATIONS
 C. CALCULATE THE DIFFERENT BOOKS:
-    1. Journals:
-        a. Sales Journals
-        b. Purchases Journals
-        c. General Journals
-    2. Cash books
-    3. Ledger 
-        a. depreciation account
-        b. discount account
-        c. suspence account
-    4. Trial balance
-    5. Trading, Profit & loss account
-    6. Balance sheet 
+    (for business orgs.)
+        1. Journals:
+            a. Sales Journals
+            b. Purchases Journals
+            c. General Journals
+        2. Cash books
+        3. Ledger 
+            a. depreciation account
+            b. discount account
+            c. suspence account
+        4. Trial balance
+        5. Trading, Profit & loss account
+        6. Balance sheet 
+    (personal)
+        1. Income
+        2. Expenses
+        3. Assets
+        4. Liailities
+        5. Budgets(monthly, yearly, etc)
+        6. statement of account   
+
 D. GRAPHICAL AND/OR PICTORIAL REPRESENTATION OF THE PREVIOUS PROFIT/LOSS STREAKS OVER A PERIOD  OF TIME.   
 E. CREATE AND AUTHENTICATE USERS
